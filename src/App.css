@@ -1,0 +1,8 @@
+.modalClass {  
+    text-align: center;  
+    margin-top: 100px;  
+  }
+
+.modal-backdrop.show {
+    opacity: 0 !important;
+}
